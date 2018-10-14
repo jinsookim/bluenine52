@@ -13,7 +13,7 @@
 ## Python Install and IDLE 
 
 ### Python 
->  Latest: Python 3.7.0 
+>  Latest: Python 3.6.0 
 - Download : https://www.python.org/download/
 - Download the latest version 
 - Check the OS version & bit (32bit / 64bit)
