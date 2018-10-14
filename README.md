@@ -9,16 +9,6 @@
 - Data Processing and Analysis
 - Machine Learning & Deep Learning
 
-<hr>
-
-<img src="./images/img_front_readme.png">
-
-## Notice 
-* [교육자료] : https://github.com/bigpycraft/hanafin-py4bd
-* [공유폴더] : \\192.15.206.251\100000100$
-* [보안PW]   : itcampus1! 또는 itcampus1!!
-
-<hr>
 
 ## Python Install and IDLE 
 
